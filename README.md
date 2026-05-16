@@ -12,15 +12,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 ## Deployment
 
-Your project is live at:
-
-**[https://vercel.com/salims-projects-50a6332a/v0-brillance-saa-s-landing-page](https://vercel.com/salims-projects-50a6332a/v0-brillance-saa-s-landing-page)**
-
 ## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/TcerYrOfHtH](https://v0.app/chat/projects/TcerYrOfHtH)**
 
 ## How It Works
 
